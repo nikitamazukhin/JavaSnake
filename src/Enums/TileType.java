@@ -1,0 +1,5 @@
+package Enums;
+
+public enum TileType {
+    EMPTY, SNAKE_HEAD_UP, SNAKE_HEAD_DOWN, SNAKE_HEAD_LEFT, SNAKE_HEAD_RIGHT, SNAKE_BODY, FOOD
+}
